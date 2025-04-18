@@ -35,4 +35,4 @@ Collect the plugin's skull list and make it into custom-skull.yml
 |GuiZhanCraft|Yes✅|
 |Galactifun|Yes✅|
 |Shop++|Yes✅|
-|NetworkExpension|Yes✅|
+|NetworkExpansion|Yes✅|
