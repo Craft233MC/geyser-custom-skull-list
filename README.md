@@ -36,3 +36,5 @@ Collect the plugin's skull list and make it into custom-skull.yml
 |Galactifun|Yes✅|
 |Shop++|Yes✅|
 |NetworkExpansion|Yes✅|
+|GeneticChickengineering-CN-RC30-Extended|Yes✅|
+|Gastronomicon|Yes✅|
